@@ -1,2 +1,2 @@
 # CarProject
-helps a user keep track of cars
+helps a user keep track of their favorite cars.
